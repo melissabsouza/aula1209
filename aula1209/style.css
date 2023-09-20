@@ -1,0 +1,25 @@
+body{
+    background-color:antiquewhite;
+}
+
+h1 {
+    color:aqua;
+}
+h4{
+    color:purple;
+    font-size:28px;
+    background: pink;
+}
+span{
+    color: blue;
+    font-size: 50px;
+}
+
+img{
+    width: 150px;
+}
+
+#outracor{
+    color: blueviolet;
+
+}
